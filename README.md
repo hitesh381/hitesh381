@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hitesh solanki
 - 👀 I’m interested in ... DevOps Technologies 
-- 🌱 I’m currently learning ... NodeJS programming 
+- 🌱 I’m currently learning ... programming
 - 💞️ I’m looking to collaborate on ... K8s, Spinnaker and Jenkins
 - 📫 How to reach me ... hitesh.solanki38@gmail.com
 
